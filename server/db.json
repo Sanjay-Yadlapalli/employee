@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "firstName": "Sanjay",
+      "lastName": "Yadlapalli",
+      "place": "Guntur",
+      "dob": "1999-07-31",
+      "id": 1
+    },
+    {
+      "firstName": "Bhavani",
+      "lastName": "Daggubati",
+      "place": "Guntur",
+      "dob": "1999-06-06",
+      "id": 2
+    },
+    {
+      "firstName": "Achyuth",
+      "lastName": "Reddy",
+      "place": "Nellore",
+      "dob": "1997-09-23",
+      "id": 3
+    },
+    {
+      "firstName": "Vinay",
+      "lastName": "Marni",
+      "place": "East Godavari",
+      "dob": "1997-06-24",
+      "id": 4
+    },
+    {
+      "firstName": "Sai ",
+      "lastName": "Kumar",
+      "place": "Warangal",
+      "dob": "1997-03-23",
+      "id": 5
+    }
+  ]
+}
